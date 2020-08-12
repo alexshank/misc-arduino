@@ -1,0 +1,5 @@
+{
+    "sketch": "ShiftSegments.ino",
+    "port": "COM4",
+    "board": "arduino:samd:mkrzero"
+}
